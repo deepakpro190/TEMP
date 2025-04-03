@@ -71,7 +71,8 @@ By the project's completion, the **Movement library** will feature a highly accu
 
 ### **Week 1 (June 2 – June 8)**
 - Implement **basic Kalman Filter** for position smoothing.
-- Generate synthetic position data & evaluate filtering accuracy.
+- Generate synthetic position data and evaluate filtering accuracy.
+-	Fix initial bugs and ensure seamless integration with Movement datasets.
 
 ### **Week 2 (June 9 – June 15)**
 - Extend KF to smooth **velocity & acceleration data**.
@@ -118,9 +119,9 @@ By the project's completion, the **Movement library** will feature a highly accu
 
 ## 🔹 **Final Weeks**
 ### **Week 11 (August 11 – August 17)**
-- Implement **JPDA** for complex tracking cases.
-- Create **detailed use case examples**.
-- Write **documentation & integration guide**.
+- Implement **Joint Probabilistic Data Association (JPDA)** for complex tracking cases.
+- Create **detailed use case examples** for identity switch correction and re-identification.
+- Write **documentation & integration guide** for movement users.
 
 ### **Final Week (August 18 – September 1)**
 - Codebase freeze & **final performance evaluation**.
@@ -130,6 +131,89 @@ By the project's completion, the **Movement library** will feature a highly accu
 ---
 
 ## **Communication Plan with Mentors**
-- **Weekly Meetings**: Sync-up meetings for progress discussions.
+- **Weekly Meetings**: Sync-up meetings for progress discussions with mentors to discuss progress and resolve issues.
 - **GitHub Discussions**: Use issues & PRs for code reviews.
 - **Google Docs**: Collaborative documentation & mentor feedback.
+
+
+# Personal Information
+
+## Past Experience
+
+### Vehicle & License Plate Recognition (YOLO & OCR)
+- Developed a real-time vehicle tracking system using YOLOv8-L, achieving 99.47% mAP@50.
+- Integrated OCR for license plate text extraction in images and videos.
+- Relevance: Experience with tracking, identity re-identification (Re-ID), Hungarian algorithm-based assignment, and Kalman filters.
+
+---
+
+### Sentiment Analyzer
+- Fine-tuned RoBERTa achieving 94.04% accuracy and optimized LSTM for sentiment classification.
+- Relevance: Hands-on experience with sequence modeling and state estimation, useful for Kalman filtering & tracking optimizations.
+
+---
+
+### RAG-based Financial Chatbot
+- Built a multi-agent system for query routing, improving efficiency by 50%.
+- Relevance: Experience with multi-agent coordination, useful for identity tracking & confidence-based Re-ID.
+
+---
+
+### Internship at NSUT (BiasFinder Project)
+- Worked with large datasets (IMDb: 50K, Twitter: 1.6M), gaining expertise in data processing and model evaluation.
+- Relevance: Handling noisy real-world data, essential for identity tracking challenges.
+
+---
+
+## Relevant Coursework
+- Design & Analysis of Algorithms
+- Optimization Techniques
+- Machine Learning
+- Computer Vision  
+Strengthens expertise in tracking, filtering, and optimization for this project.
+
+---
+
+## Motivation
+- Fascinated by multi-object tracking challenges and improving motion estimation in real-world scenarios.
+- Passionate about probabilistic filtering techniques to enhance tracking accuracy & stability.
+- Drawn to open-source collaboration, seeing it as an opportunity to contribute meaningfully while learning from mentors.
+- Excited to work on a project that blends algorithmic efficiency with practical impact, particularly in identity assignment & re-identification.
+
+---
+
+## Why Me?
+- Background in data-driven model optimization, including filtering methods & structured tracking pipelines.
+- Comfortable with experimenting & iterating on tracking solutions, balancing theory with practical implementation.
+- Experience with object recognition & feature matching, aligning with identity tracking challenges.
+- Detail-oriented in testing & documentation, ensuring clarity & usability in implementations.
+- Committed to open-source development, eager to engage with the community and refine solutions through collaboration.
+
+---
+
+## Availability
+- Committed to 200+ hours for this project with no planned vacations or travel.
+- My working hours (UTC +5:30) are:  
+
+### Weekday Availability (5-6 hours/day)
+- 11:00 – 18:00 IST
+
+### Weekend Availability (4-5 hours/day)
+- 11:00 – 16:00 IST
+
+Flexible and willing to adjust & re-plan my schedule based on project requirements & mentor feedback.
+
+---
+
+## GSoC Experience
+- First-time GSoC applicant, enthusiastic about the chance to contribute to an open-source initiative.
+- Actively explored past GSoC projects, discussions & best practices.
+- Looking forward to collaborating with mentors & making a meaningful impact.
+- Studied previous GSoC contributions to understand the workflow & expectations.
+
+---
+
+## Applying to Other Orgs?
+- No, this is my sole application.  
+- My full attention & dedication is directed toward this project.  
+- Committed to ensuring its successful execution.  
