@@ -8,7 +8,7 @@
 - **Location & Time-zone:** Delhi, India (IST, UTC+5:30)  
 - **Personal Website / Project Portfolio:** deepakpro190  
 - **Proposal Discussion Link:** [GitHub PR](https://github.com/neuroinformatics-unit/gsoc/pull/47/files)  
-
+- **Code Contribution**: NIL
 ---
 
 ## Project Proposal
