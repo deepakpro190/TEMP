@@ -8,7 +8,7 @@
 - **Location & Time-zone:** Delhi, India (IST, UTC+5:30)  
 - **Personal Website / Project Portfolio:** deepakpro190  
 - **Proposal Discussion Link:** [GitHub PR](https://github.com/neuroinformatics-unit/gsoc/pull/47/files)  
-- **Code Contribution**: NIL
+- **Code Contribution**: While I haven’t submitted a PR yet, I’ve actively studied the codebase, set up the development environment, and followed project discussions to understand the workflow and contribution guidelines. I’ve also explored potential areas to contribute and worked on ideas locally. I’m confident in my understanding of the project and ready to make meaningful contributions once the program begins.
 ---
 
 ## Project Proposal
